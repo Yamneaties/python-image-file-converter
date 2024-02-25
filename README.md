@@ -19,4 +19,6 @@ Formats also supporting the CMYK color model (default is RGB/RGBA):
 - TIF
 - TIFF
 
+There are three included images for testing purposes.
+
 Sun Valley theme created by GitHub user rbende.
